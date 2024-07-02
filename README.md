@@ -1,8 +1,3 @@
-# React + Vite
+# React Color Box
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+shows the number of boxes which has different colors assigned to each of them. Each time the app loads different random colors are assigned. when a user clicks any of the boxes, it changes its color to some different random color that does not equal to its previous color value
